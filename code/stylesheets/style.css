@@ -121,9 +121,16 @@ h1 {
 }
 
 .div-one-title{
+  text-align: center;
   font-size: 16px;
   font-weight: bold;
-  margin-left: 624px;
+}
+
+.div-one-title-line{
+  width: 50px;
+  height:2px;
+  background-color: #bbb;
+  margin: 5px  auto;
 }
 
 .div-one ul{
@@ -168,6 +175,13 @@ h1 {
   font-size: 17px;
   font-weight: bold;
   margin-bottom: -39px;
+}
+
+.div-two-title-line{
+  width: 50px;
+  height:2px;
+  background-color: #bbb;
+  margin: 65px  auto;
 }
 
 .div-two ul{
