@@ -170,13 +170,14 @@ h1 {
 }
 
 .div-two ul{
-  margin-top: 23px;
+  margin-top: 98px;
   margin-left: 185px;
   margin-right: 90px;
+  margin-bottom: 136px;
 }
 
 .div-two img{
-  margin-top: 100px;
+  margin-top: 9px;
   margin-bottom: 77px;
   margin-left: 32px;
   margin-right: 19px;
@@ -205,4 +206,47 @@ h1 {
 .div-two .div-two-content{
   font-size: 14px;
   color: #777;
+}
+
+.div-three{
+  margin-top: 50px;
+  box-shadow:  inset 0 1px 1px #666;
+  text-align: center;
+}
+
+.div-three p button{
+  margin-top: 43px;
+  margin-right:-4px;
+  width:183px;
+  height: 61px;
+  display: inline-block;
+  font-weight: bold;
+  font-size: 17px;
+}
+
+.btn-1{
+  background-color: #444555
+}
+
+.div-three .div-three-content{
+  margin: 55px auto;
+  width: 1031px;
+  font-size: 21px;
+  color: #777;
+}
+
+.div-three ul li{
+  margin-top: 10px;
+  height: 100px;
+  padding-left: 0px;
+}
+
+.div-three img{
+  margin-top: 50px;
+  margin-left: 10px;;
+  margin-right: 10px;;
+  margin-bottom: 50px;
+  width:100px;
+  height:100px;
+  border-radius: 50%;
 }
