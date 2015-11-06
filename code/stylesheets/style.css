@@ -69,11 +69,12 @@ h1 {
 .top-button {
   width:113px;
   height: 62px;
-  background-color: #000;
+  background-color: #5ab55a;
   display: inline-block;
   color: #fff;
   font-weight: bold;
   font-size: 17px;
+  border-radius: 2%;
 }
 
 .list-1{
@@ -249,4 +250,44 @@ h1 {
   width:100px;
   height:100px;
   border-radius: 50%;
+}
+
+.div-four{
+  color: white;
+  background-image: url('../images/sunset-resized.jpg');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+  padding-bottom: 107px;
+}
+
+.bottom-form {
+  margin-top: 96px;
+  text-align: center;
+}
+
+.bottom-search{
+  width:510px;
+  height:55px;
+  margin-left: 20px;
+  margin-top: 111px;
+  font-size: 16px;
+}
+
+.bottom-button {
+  width:125px;
+  height: 64px;
+  background-color: #5ab55a;
+  display: inline-block;
+  color: #fff;
+  font-weight: bold;
+  font-size: 17px;
+  border-radius: 2%;
+}
+
+.div-four span{
+  margin-right: 0px;
+  font-size: 27px;
+  font-weight: bold;
+  color: #fff;
 }
