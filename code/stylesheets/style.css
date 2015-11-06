@@ -1,7 +1,7 @@
 body {
   margin: 0px;
   padding: 0px;
-  background-color: #ddd;
+  background-color: #eee;
 }
 
 header {
@@ -78,7 +78,7 @@ h1 {
 
 .list-1{
   border-radius: 2%;
-  background-color: #ddd;
+  background-color: #eee;
   margin:-106px 103px 0px 189px;
   box-shadow:  inset 0 0px 1px #666;
 }
@@ -107,4 +107,51 @@ h1 {
 .list-1 ul .list1-2{
   font-size: 14px;
   color: #777;
+}
+
+.div-one{
+  margin-top: 84px;
+}
+
+.div-one-item{
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: -14px;
+}
+
+.div-one-title{
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 624px;
+}
+
+.div-one ul{
+  text-align: center;
+  margin-top: 45px;
+}
+
+.div-one ul li{
+  width:280px;
+  text-align: center;
+  display: inline-block;
+}
+
+.div-one-content{
+  font-size: 14px;
+  color: #333;
+  margin-top: -11px;
+}
+
+.div-one-img{
+  margin-top: 32px;
+}
+
+.div-one-no{
+  background-color: #fff;
+  padding: 11px;
+  margin-left: 120px;
+  width: 20px;
+  border-radius: 50%;
+  font-weight: bold;
+  font-size: 18px;
 }
